@@ -19,9 +19,9 @@ export default function RootLayout({
           alt={"logo"}
         />
         <Link href="/">
-          <h1 className="text-2xl text-white font-bold mt-4">Suldee example blog</h1>
+          <h1 className="text-2xl text-white font-bold mt-4">Бөхчүүд</h1>
         </Link>
-        <p className="text-slate-300">🤟 Манай бологт тавтай морил. 💻</p>
+        <p className="text-slate-300">🤟 Манай блогт тавтай морил. 💻</p>
       </div>
     </header>
   );

@@ -12,15 +12,15 @@ export default function RootLayout({
       <div className="text-center bg-slate-800 p-8 my-6 rounded-md">
         <Image
           src="/logo.png"
-          width={40}
-          height={40}
+          width={100}
+          height={100}
           className="mx-auto"
           alt={"logo"}
         />
         <Link href="/">
           <h1 className="text-2xl text-white font-bold mt-4">Сүлдээ Blog</h1>
         </Link>
-        <p className="text-slate-300">🤟 Welcome to my tech blog. 💻</p>
+        <p className="text-slate-300">🤟 Монгол бөхчүүд 💻</p>
       </div>
     </header>
   );
